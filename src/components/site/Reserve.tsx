@@ -38,7 +38,7 @@ export function Reserve() {
             <div className="flex gap-4">
               <div className="w-11 h-11 rounded-full bg-gold/10 border border-gold/30 grid place-items-center text-gold"><Phone className="w-4 h-4" /></div>
               <div>
-                <div className="text-sm font-medium">+91 80 4567 8900</div>
+                <div className="text-sm font-medium">000-000-0000</div>
                 <div className="text-xs text-muted-foreground">Reservations · Daily 11am – 11pm</div>
               </div>
             </div>

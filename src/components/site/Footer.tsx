@@ -16,7 +16,7 @@ export function Footer() {
           </div>
         </div>
         <FooterCol title="Explore" links={["Menu", "Reservations", "Catering", "Careers", "Blog"]} />
-        <FooterCol title="Contact" links={["+91 80 4567 8900", "hello@spicegarden.in", "Indiranagar, Bengaluru"]} />
+        <FooterCol title="Contact" links={["000-000-0000", "hello@spicegarden.in", "Indiranagar, Bengaluru"]} />
         <div>
           <div className="text-xs uppercase tracking-[0.25em] text-gold mb-4">Hours</div>
           <ul className="space-y-2 text-sm text-foreground/70">
